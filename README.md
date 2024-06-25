@@ -30,7 +30,7 @@ Pipeline originally designed to preprocess and improve readability of old scans/
 Using the command line, navigate to the location in which you wish to install the code. Then, download the code.
 
 ```bash
-git clone https://github.com/Divergent-Discourses/dd_preprocess
+git clone https://github.com/Divergent-Discourses/dd_preprocess.git
 ```
 
 Create a virtual environment.
