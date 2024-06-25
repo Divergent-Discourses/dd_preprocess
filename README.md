@@ -45,7 +45,7 @@ Activate the environment.
 conda activate dd_preprocess
 ```
 
-Install required packages.
+Using the command line, navigate to the location of this repository. Then, install required packages.
 
 ```bash
 pip install -r requirements.txt
