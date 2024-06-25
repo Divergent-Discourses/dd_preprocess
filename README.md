@@ -2,7 +2,7 @@
 
 Preprocesses images of written documents to prepare them for optical character recognition (OCR) or handwritten text recognition (HTR).
 
-Aims to obtain more accurate transcriptions by making text more legible.
+Aims to obtain more accurate transcriptions by making text more machine-readable.
 
 Originally written for OCR/HTR of historical documents, predominantly Tibetan-language newspaper pages from 1950-60s.
 
