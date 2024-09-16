@@ -81,6 +81,9 @@ After you've typed that (before pressing enter), you can optionally include the 
 purposes). If you use this flag, the other optional flags are irrelevant as they apply to the further preprocessing pipeline.
 
 
+For best results, you will need to tune **k_val** and **window_size** to values which work best for your materials. Default values were found to be the best compromise across varying image qualities (including red/coloured text, heavily stained/noisy pages and good quality images). For relatively clean images, try a k_val of **0.24** and window_size of **11**. 
+
+
 Remember to deactivate the virtual environment once you're done.
 
 ```bash
