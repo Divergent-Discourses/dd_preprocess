@@ -109,4 +109,4 @@ python dd_preprocess.py path/to/source/directory path/to/destination/directory -
 
 **dd_preprocess.py** was developed by Christina Sabbagh of SOAS University of London for the Divergent Discourses project. The project is a joint study involving SOAS University of London and Leipzig University, funded by the AHRC in the UK and the DFG in Germany.
 
-Please acknowledge the project in any use of these materials. Copyright for the project resides with the two univerisities.
+Please acknowledge the project in any use of these materials. Copyright for the project resides with the two universities.
