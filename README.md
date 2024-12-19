@@ -11,7 +11,6 @@ Originally written for OCR/HTR of historical documents, predominantly Tibetan-la
 #### Step 1: Prepares images to meet Transkribus upload requirements
 
 - Converts all images to JPEG format
-- Ensures each image is maximum 300 DPI
 - Increases size of images so that at least one dimension is 2500 pixels
 - Ensures each image is maximum 10 MB
 
