@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14525692.svg)](https://doi.org/10.5281/zenodo.14525692)
+
 # Image Preprocessing Pipeline
 
 Preprocesses images of written documents to prepare them for optical character recognition (OCR) or handwritten text recognition (HTR).
