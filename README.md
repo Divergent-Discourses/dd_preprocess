@@ -112,12 +112,10 @@ python dd_preprocess.py path/to/source/directory path/to/destination/directory -
 
 Please acknowledge the project in any use of these materials. Copyright for the project resides with the two universities.
 
-## :bookmark_tabs: Citation
+## :bookmark_tabs: Citation  
 
-If you find our code helpful, please consider using the following citation:
+If you find our code helpful, please consider using the following citation:  
 
-```bib
-Christina Sabbagh, “Enhanced HTR Accuracy for Tibetan Historical Texts - Optimising Image
-Pre-processing for Improved Transcription Quality”, Revue d’Etudes Tibétaines, no. 74, February
-2025, pp. 81–127.
-```
+> Christina Sabbagh, *"Enhanced HTR Accuracy for Tibetan Historical Texts - Optimising Image  
+> Pre-processing for Improved Transcription Quality"*, Revue d’Etudes Tibétaines, no. 74,  
+> February 2025, pp. 81–127. Available at: [https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ret/pdf/ret_74_03.pdf](https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ret/pdf/ret_74_03.pdf).
