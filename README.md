@@ -114,7 +114,7 @@ Please acknowledge the project in any use of these materials. Copyright for the 
 
 ## :bookmark_tabs: Citation
 
-If you find our code helpful, please consider to use the following citation:
+If you find our code helpful, please consider using the following citation:
 
 ```bib
 Christina Sabbagh, “Enhanced HTR Accuracy for Tibetan Historical Texts - Optimising Image
