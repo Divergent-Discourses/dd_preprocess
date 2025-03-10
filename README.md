@@ -111,3 +111,13 @@ python dd_preprocess.py path/to/source/directory path/to/destination/directory -
 **dd_preprocess.py** was developed by Christina Sabbagh of SOAS University of London for the Divergent Discourses project. The project is a joint study involving SOAS University of London and Leipzig University, funded by the AHRC in the UK and the DFG in Germany.
 
 Please acknowledge the project in any use of these materials. Copyright for the project resides with the two universities.
+
+## :bookmark_tabs: Citation
+
+If you find our code helpful, please consider to use the following citation:
+
+```bib
+Christina Sabbagh, “Enhanced HTR Accuracy for Tibetan Historical Texts - Optimising Image
+Pre-processing for Improved Transcription Quality”, Revue d’Etudes Tibétaines, no. 74, February
+2025, pp. 81–127.
+```
