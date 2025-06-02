@@ -211,7 +211,7 @@ def compress_pic(src_img_path, quality):
     """
     img = Image.open(src_img_path)
 
-    img.save(src_img_path, "JPEG", optimize=True, quality=quality)
+    img.save(src_img_path, "JPEG", optimize=True, quality=quality, dpi=(300,300))
 
     processed_size = os.path.getsize(src_img_path)
 
