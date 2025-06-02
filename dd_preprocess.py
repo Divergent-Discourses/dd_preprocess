@@ -75,7 +75,7 @@ def meet_upload_reqs(src_image_path, dest_image_path, basic_only):
         img = Image.open(src_image_path)
 
         # Convert image to JPG
-        img.convert("RGB")
+        img = img.convert("RGB")
 
         # Resize image (dimensions) - check image width < 2500 then resize by a determined factor
         # 2500 is max desired dimension for resize image
